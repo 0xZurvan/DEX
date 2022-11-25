@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/IsaacHS5/DEX#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "hardhat": "^2.12.2"
   },
   "dependencies": {
